@@ -1,0 +1,532 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    
+}.top-section{
+
+    left: 0px;
+    top: 105px;
+    width: 100%;
+    height: 821px;
+
+}
+.top-section img{
+
+    margin-top: 105px;
+    width: 100%;
+    height: 716px;
+}
+.header button{
+    font-size: 15.5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    
+}
+.test{
+    position: relative;
+    top: -120px;
+    left: 950px;
+    font-size: 22px;
+    color: black;
+    background-color:#ffba00;
+    border: none;
+    height: 50px;
+    width: 320px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    font-weight: bold;
+
+}
+.book{
+    position: relative;
+    top: -120px;
+    left: 970px;
+    font-size: 22px;
+    color:black;
+    background-color: #ffba00;
+    border: none;
+    height: 50px;
+    width: 320px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    font-weight: bold;
+}
+.b-1{
+    position: relative;
+    top: 42px;
+    left: 160px;
+    color: white;
+    background-color: black;
+
+}
+.b-2{
+    position: relative;
+    top: 42px;
+    left: 185px;
+    color: white;
+    background-color: black;
+
+}
+.b-3{
+    position: relative;
+    top: 42px;
+    left: 210px;
+    color: white;
+    background-color: black;
+
+}
+.b-4{
+    position: relative;
+    top: 42px;
+    left: 225px;
+    color: white;
+    background-color: black;
+}
+.b-5{
+    position: relative;
+    top: 42px;
+    left: 271px;
+    color: white;
+    background-color: black;
+}
+.b-6{
+    position: relative;
+    top: 42px;
+    left: 305px;
+    color: white;
+    background-color: black;
+}
+.b-7{
+    position: relative;
+    top: 42px;
+    left: 350px;
+    color: white;
+    background-color:#ffba00;
+}
+.b-8{
+    position: relative;
+    top: 42px;
+    left:410px;
+    color: white;
+    background-color: black;
+}
+.b-9{
+    position: relative;
+    top: 42px;
+    left:480px;
+    color: white;
+    background-color: black;
+}
+.header{
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 105px;
+background-color: black;
+}
+.head-1{
+    position: absolute;
+    top: 19px;
+    left: 10px;
+    width: 108px;
+    padding: 10px;
+    height: 40px;
+
+
+    z-index: 3;
+
+}
+.head-1 img{
+    
+    width: 100%;
+    height: 100%;
+}
+.mid-section{
+    
+    width: 100%;
+    height: 355px;
+    background-color:white ;
+}
+.images{
+    position: absolute;
+    top: 870px;
+    width: 100%;
+    height: 300px;
+    display: flex;
+    z-index: 1;
+    
+    
+}
+.img-1{
+    position: absolute;
+    top: 60px;
+    left: 80px;
+    width: 20%;
+    height: 200px;
+}
+.img-1 img{
+    width: 100%;
+    height: 100%;
+}
+
+.img-2{
+    position: absolute;
+    top: 60px;
+    left: 490px;
+    width:20% ;
+    height: 200px;
+}
+.img-2 img{
+    width: 100%;
+    height: 100%;
+}
+.img-3{
+    position: absolute;
+    top: 60px;
+    left: 910px;
+    width: 20%;
+    height: 200px;
+}
+.img-3 img{
+    width: 100%;
+    height: 100%;
+}
+.img-4{
+    position: absolute;
+    top: 60px;
+    left: 1350px;
+    width: 20%;
+    height: 200px;
+}
+.img-4 img{
+    width: 100%;
+    height: 100%;
+}
+.mid-section p{
+    position: absolute;
+    font-size: 40px;
+    color: #333;
+    left: 689px;
+    top: 835px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    letter-spacing: 0px;
+    
+}
+.types h3{
+    position: absolute;
+    font-size: 18px;
+    color:black;
+    left: 190px;
+    top: 1100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    letter-spacing: 0px;
+    z-index: 2;
+}
+.types h4{
+    position: absolute;
+    font-size: 18px;
+    color:black;
+    left: 600px;
+    top: 1100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    letter-spacing: 0px;
+    z-index: 2;
+}
+.types h5{
+    position: absolute;
+    font-size: 18px;
+    color:black;
+    left: 1010px;
+    top: 1100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    letter-spacing: 0px;
+    z-index: 2;
+}
+.types h6{
+    position: absolute;
+    font-size: 18px;
+    color:black;
+    left: 1460px;
+    top: 1080px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    letter-spacing: 0px;
+    z-index: 2;
+}
+.mid-2{
+    position: absolute;
+    top: 1200px;
+    width: 100%;
+    height: 82px;
+    
+}
+.mid-2 img{
+    width: 100%;
+    height: 100%;
+}
+.bottom-section{
+    position: absolute;
+    top: 1282px;
+    width: 100%;
+    height: 485px;
+    background-color:#d1d1d1;
+
+}
+.botimg{
+    margin-left: 26px;
+    margin-right: 26px;
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    top: 30px;
+    width: 96.7%;
+    height: 433px;
+    
+}
+.img-7{
+    width: 32.25%;
+    height: 397px;
+    
+}
+.img-8{
+    width: 32.25%;
+    height: 397px;
+    
+}
+.img-9{
+    width: 32.25%;
+    height: 397px;
+    
+}
+.img-7 img{
+    width: 100%;
+    height: 100%;
+}
+.img-8 img{
+    width: 100%;
+    height: 100%;
+}
+.img-9 img{
+    width: 100%;
+    height: 100%;
+}
+.A{
+    position: absolute;
+    top: 396px;
+    background-color: #e7e7e7;
+    width: 524px;
+    height: 37px;
+
+    
+
+}
+.B{
+    position: absolute;
+    top: 396px;
+    left: 552px;
+    background-color:#e7e7e7;
+    width: 524px;
+    height: 37px;
+
+}
+.C{
+    position: absolute;
+    top: 396px;
+    left: 1105px;
+    background-color:#e7e7e7;
+    width: 524px;
+    height: 37px;
+
+}
+.D{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color:orange;
+    font-size: 30px;
+    position: relative;
+    top: 4px;
+
+}
+.E{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color:orange;
+    font-size: 30px;
+    position: relative;
+    top: 4px;
+}
+.F{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: orange;
+    font-size: 30px;
+    position: relative;
+    top: 4px;
+}
+.A P{
+    position: relative;
+    top: -20px;
+    left: 350PX;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    color:black;
+    font-size: 20px;
+}
+.B P{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: -20px;
+    left: 350PX;
+    color:black;
+    font-size: 20px;
+}
+.C P{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: -20px;
+    left: 350PX;
+     color:black;
+    font-size: 20px;
+}
+.bottom-section-2{
+    width: 100%;
+    height: 166px;
+    position: absolute;
+    top: 1765px;
+    background-color: #212121;
+    
+}
+.bottom-section-2 button{
+     font-size: 18px;
+     color:whitesmoke;
+     background-color: transparent;
+     border:none ;
+}
+.b1{
+    position: relative;
+    top:80px;
+    left: 160px;
+}
+.b2{
+    position: relative;
+    top:80px;
+    left: 240px;
+}.b3{
+    position: relative;
+    top:80px;
+    left: 300px;
+}.b4{
+    position: relative;
+    top:80px;
+    left: 350px;
+}.b5{
+    position: relative;
+    top:80px;
+    left: 400px;
+}
+.search-box{
+    display: flex;
+    position: relative;
+    left: 1132px;
+    top: 56px;
+    
+    
+
+
+}
+.search-input{
+    position: relative;
+    top: -14px;
+    width:280px;
+    height:40px;
+    font-size: 19px;
+
+}
+.search-box button{
+    position: relative;
+    top: -13.5px;
+    height:45px;
+    width: 120px;
+    font-size: 17px;
+    background-color: #ffba00;
+    color: black;
+    font-weight: bold;
+}
+.footer{
+    display: flex;
+    width: 100%;
+    height: 400px;
+    background-color: black;
+    position: relative;
+    top: 97px;
+    list-style: none;
+    color: #bfbfbf;
+    font-size: 18px;
+    line-height: 30px;
+    font-family: Arial;
+    
+}
+.footer-1{
+    position: relative;
+    left: 140px;
+    top: 70px;
+    width: 15%;
+    height: 250px;
+    
+}
+.footer-2{
+    position: relative;
+    left: 160px;
+    top: 70px;
+    width: 14%;
+    height: 280px;
+    
+}
+.footer-3{
+    position: relative;
+    left: 210px;
+    top: 70px;
+    width: 13%;
+    height: 240px;
+    
+}
+.footer-4{
+    position: relative;
+    left: 280px;
+    top: 70px;
+    width: 18%;
+    height: 250px;
+    
+    
+}
+.footer-5{
+
+    position: relative;
+    left: 340px;
+    top: 70px;
+    width: 16%;
+    height: 280px;
+    
+    
+}
+.footer-6{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    top: 220px;
+    width: 270px;
+    height: 45px;
+
+}
+.footer-6 img{
+
+    height: 100%;
+    width: 20%;
+}
